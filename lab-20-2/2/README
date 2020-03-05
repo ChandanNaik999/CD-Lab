@@ -1,0 +1,3 @@
+Program for the given grammar:
+S = WXW
+W,X = (a+b)*
